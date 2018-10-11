@@ -1,3 +1,6 @@
+package commons;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
 public class AbrirNavegador {
 	private Utils utils;
 

@@ -1,3 +1,4 @@
+package functions;
 import java.util.Random;
 
 public class GeraEmail {
