@@ -3,6 +3,8 @@
 	<classpathentry kind="src" path="postgress"/>
 	<classpathentry kind="src" path="seleniumWebDriver"/>
 	<classpathentry kind="lib" path="testNG/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="seleniumWebDriver/standalone/selenium-server-standalone-3.7.1.jar"/>
+	<classpathentry kind="lib" path="seleniumWebDriver/testNG/testng-6.8.5.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
