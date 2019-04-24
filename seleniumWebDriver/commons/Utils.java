@@ -1,3 +1,6 @@
+package commons;
+import org.openqa.selenium.WebDriver;
+
 public class Utils {
 
 	private String navegadorDriver = "webdriver.gecko.driver";

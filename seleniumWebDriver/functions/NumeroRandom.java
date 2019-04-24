@@ -1,3 +1,6 @@
+package functions;
+import commons.Utils;
+
 public class NumeroRandom{
 	
 	private Utils utils;
